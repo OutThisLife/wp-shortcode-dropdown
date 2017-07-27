@@ -11,7 +11,7 @@
 			values,
 			type: 'listbox',
 			text: 'Shortcodes',
-			onselect: function(e) {
+			onselect: e => {
 				tinymce.activeEditor.selection.setContent(e.control.settings.value)
 			},
 		})
