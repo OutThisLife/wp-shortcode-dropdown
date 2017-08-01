@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Shortcode Dropown
+ * Plugin Name: Shortcode Dropdown
  * Description: Add all theme-generated shortcodes to TinyMCE
  * Version: 1.0.0
  * Author: Talasan Nicholson
